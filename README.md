@@ -8,7 +8,7 @@ sudo apt-get install Tesseract-ocr
 ```
 
 For running Code:
-'''
+```
 usage: pytesseract_implementation.py [-h] -i IMAGE [-c MIN_CONF]
 
 options:
@@ -17,4 +17,4 @@ options:
                         path to input image to be OCR'd
   -c MIN_CONF, --min-conf MIN_CONF
                         minimum confidence value to filter weak text detection
-''' 
+``` 
